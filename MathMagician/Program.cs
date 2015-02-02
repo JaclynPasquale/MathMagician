@@ -48,7 +48,7 @@ namespace Mathgician
                 {
                     if ((number % i) == 0)
                     {
-                        isPrime = false;
+                        isPrime = false; 
                     }
                 }
                 if (isPrime)
